@@ -60,6 +60,9 @@
   "directories": {
     "doc": "docs"
   },
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/virtual-labs/ph3-lab-mgmt.git"
