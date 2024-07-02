@@ -61,7 +61,7 @@
     "doc": "docs"
   },
   "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+    "@anshium:registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
