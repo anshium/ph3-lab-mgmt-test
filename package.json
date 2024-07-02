@@ -65,10 +65,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/virtual-labs/ph3-lab-mgmt.git"
-  },
-  "bugs": {
-    "url": "https://github.com/virtual-labs/ph3-lab-mgmt/issues"
-  },
-  "homepage": "https://github.com/virtual-labs/ph3-lab-mgmt#readme"
+    "url": "git+https://github.com/anshium/ph3-lab-mgmt-test.git"
+  }
 }
